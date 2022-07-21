@@ -1,0 +1,71 @@
+.bg-body {
+    font-family: 'Barlow Condensed', sans-serif;
+    padding-bottom: 8rem;
+    background-image: url(/public/assets/img/bg_gaming.webp);
+    background-size: cover;
+    backdrop-filter: blur(10px);
+    overflow-x: hidden;
+}
+
+.sticky-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.carousel {
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+}
+
+.EventsTitle {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.hero-section-1 {
+    background-image: url("/public/assets/img/e-sports_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-section-2 {
+    text-align: center;
+}
+
+.videoframe {
+    width: 100%;
+}
+
+.betting-table {
+    text-align: center;
+}
+
+.cards {
+    margin-left: 20px;
+}
+
+.li-games {
+    background-image: url(/public/assets/img/e-sports_bg.jpg);
+    background-size: cover;
+}
+
+.csgo-1{
+    background-image: url(/public/assets/img/csgo_bg_1.jpg);
+    background-size: cover;
+}
+
+.dota2{
+    background-image: url(/public/assets/img/dota2_bg_2.jpg);
+    background-size: cover;
+}
+
+.LOL{
+    background-image: url(/public/assets/img/league_bg_@.jpg);
+    background-size: cover;
+}
+
+.valo{
+    background-image: url(/public/assets/img/valorant_bg_1.jpg);
+    background-size: cover;
+}
